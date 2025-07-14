@@ -37,5 +37,7 @@ Model trained with 90%+ accuracy on test data.
 
 ## 🔗 Connect
 
-- [LinkedIn](https://linkedin.com/in/amalabera)
-- beraamla43@gmail.com
+- [LinkedIn](www.linkedin.com/in/amala-bera
+
+)
+  
